@@ -1,0 +1,29 @@
+.tablero{
+
+    /* background: -webkit-radial-gradient(black, red, white);*/
+  background: -webkit-linear-gradient(left top, black , white);
+ /* background:blue;*/
+    
+}
+.base{
+    background-color: white;    
+}
+
+td{
+    width: transparent;
+    height: transparent;
+    color: black;
+}
+table {width: 50px; caption-side:bottom;}
+    
+}
+td:hover{
+    background-color: black;
+}
+hr { 
+  background-color: red; 
+  height: 2px;
+}
+
+
+
